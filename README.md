@@ -20,7 +20,7 @@ You can run an individual node via rosrun:
 ```
 rosrun filter_frames filter_frames_node
 ```
-Or via roslaunch:
+Or one or more via roslaunch:
 ```
 roslaunch filter_frames filter_frames.launch
 ```
